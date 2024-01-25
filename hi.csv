@@ -1,0 +1,5 @@
+user_id,passwords,name,height,weight,blood,email,gender,dob
+admin,root,,,,,,,
+eliet,mrrobot,,,,,,,
+user1,mine1234,random_name1,155,40,B+,hi@gmail.com,male,10/21/2004
+user2,12345678,random_name2,150,45,O+,hello@gmail.com,Female,11/27/2004
