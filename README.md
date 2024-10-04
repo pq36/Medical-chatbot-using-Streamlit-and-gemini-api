@@ -50,7 +50,7 @@ This project is a **Medical Chatbot** built using **Streamlit** and **Gemini API
 
 To interact with the chatbot, you need to configure the **Google Gemini API**:
 
-1. [Create a Google Cloud account](https://cloud.google.com).
+1. [Get gemini api](https://ai.google.dev/gemini-api).
 2. Enable the **Gemini API** in your project.
 3. Generate an API key and copy it to the `.env` file as described above.
 
