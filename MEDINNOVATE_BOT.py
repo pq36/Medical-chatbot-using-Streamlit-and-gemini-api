@@ -3,7 +3,7 @@ import google.generativeai as genai
 import pandas as pd
 
 
-#hi.csv contains the user details
+#users.csv contains the user details
 user_data=pd.read_csv("users.csv")
 
 
