@@ -8,7 +8,7 @@ user_data=pd.read_csv("users.csv")
 
 
 
-genai.configure(api_key=YOUR_GOOGLE_GEMINI_API_KEY)
+genai.configure(api_key=GOOGLE_GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 model2=genai.GenerativeModel('gemini-pro')
 model3=genai.GenerativeModel('gemini-pro')
