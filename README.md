@@ -88,3 +88,6 @@ model = genai.GenerativeModel('gemini-pro')
 
 
 ```
+### Notes:
+1. The `.env` file will securely store your API key without hardcoding it in the project files.
+2. Make sure to include a `requirements.txt` file with all the required libraries like `streamlit`, `google-generativeai`, `pandas`, etc.
