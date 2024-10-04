@@ -4,7 +4,7 @@ import pandas as pd
 
 
 #hi.csv contains the user details
-user_data=pd.read_csv("hi.csv")
+user_data=pd.read_csv("users.csv")
 
 
 
